@@ -3,6 +3,10 @@
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
+    "ng-c": "ng g c",
+    "ng-m": "ng g m",
+    "ng-g": "ng g g",
+    "ng-s": "ng g s",
     "start": "ng serve",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
